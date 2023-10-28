@@ -1,5 +1,5 @@
 Student name: Alexandru Mancos 
-Student number: your student number
-Student class: your class
+Student number: 721269
+Student class: IT 1C
 GitHub Repository: your github repository URL
 GitHub Pages URL: your github pages URL
